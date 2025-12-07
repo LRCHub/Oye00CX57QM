@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ハピネス",
+  "base_artist": "AI",
+  "createdAt": "2025-12-07T11:54:36.529778Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハピネス",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/01_ハピネス_B'z.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キンキラ☆ハピネス!",
+      "artist": "アキノ (CV: 松嵜 麗), ミフユ (CV: 田所あずさ), ユカリ (CV: 今井麻美) & タマキ (CV: 沼倉愛美)",
+      "has_synced": true,
+      "path": "select/02_キンキラ☆ハピネス!_アキノ_(CV__松嵜_麗),_ミフユ_(CV__田所あずさ),_ユカリ_(CV__今井麻美)_&_タマキ_(CV__沼倉愛美).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キンキラ☆ハピネス!",
+      "artist": "タマキ(CV.沼倉愛美), ミフユ(CV.田所あずさ), アキノ(CV.松嵜麗) & ユカリ(CV.今井麻美)",
+      "has_synced": true,
+      "path": "select/03_キンキラ☆ハピネス!_タマキ(CV.沼倉愛美),_ミフユ(CV.田所あずさ),_アキノ(CV.松嵜麗)_&_ユカリ(CV.今井麻美).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハピネス",
+      "artist": "syrup16g",
+      "has_synced": true,
+      "path": "select/04_ハピネス_syrup16g.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キンキラ☆ハピネス!",
+      "artist": "アキノ (松嵜麗), ミフユ (田所あずさ), ユカリ (今井麻美), タマキ (沼倉愛美)",
+      "has_synced": true,
+      "path": "select/05_キンキラ☆ハピネス!_アキノ_(松嵜麗),_ミフユ_(田所あずさ),_ユカリ_(今井麻美),_タマキ_(沼倉愛美).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハピネス",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/06_ハピネス_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハピネス",
+      "artist": "GODIEGO/タケカワユキヒデ",
+      "has_synced": true,
+      "path": "select/07_ハピネス_GODIEGO_タケカワユキヒデ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハピネス - Happiness",
+      "artist": "AI",
+      "has_synced": true,
+      "path": "select/08_ハピネス_-_Happiness_AI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハピネス",
+      "artist": "岡咲美保",
+      "has_synced": false,
+      "path": "select/09_ハピネス_岡咲美保.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハピネス",
+      "artist": "美郷あき",
+      "has_synced": false,
+      "path": "select/10_ハピネス_美郷あき.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "キンキラ☆ハピネス!",
+      "artist": "アキノ (CV: 松嵜麗)、ミフユ (CV: 田所あずさ)、ユカリ (CV: 今井麻美)、タマキ (CV: 沼倉愛美)",
+      "has_synced": true,
+      "path": "select/11_キンキラ☆ハピネス!_アキノ_(CV__松嵜麗)、ミフユ_(CV__田所あずさ)、ユカリ_(CV__今井麻美)、タマキ_(CV__沼倉愛美).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハピネス ~幸福歓迎!~",
+      "artist": "berryzkobo",
+      "has_synced": true,
+      "path": "select/12_ハピネス_~幸福歓迎!~_berryzkobo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハピネス - 幸福歓迎!",
+      "artist": "berryzkobo",
+      "has_synced": true,
+      "path": "select/13_ハピネス_-_幸福歓迎!_berryzkobo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ハピネス",
+      "artist": "AI",
+      "has_synced": true,
+      "path": "select/14_ハピネス_AI.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ハピネス",
+      "artist": "AI",
+      "has_synced": true,
+      "path": "select/15_ハピネス_AI.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ハピネス",
+      "artist": "Cyntia",
+      "has_synced": true,
+      "path": "select/16_ハピネス_Cyntia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハピネス",
+      "artist": "AI",
+      "has_synced": false,
+      "path": "select/pl_01_ハピネス_AI.txt"
+    }
+  ]
+}
